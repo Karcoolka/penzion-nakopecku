@@ -72,21 +72,19 @@ export default function Header() {
       <div className="position-relative">
         <div
           id="header-carousel"
-          className="carousel slide carousel-fade rounded-4"
-          style={{ maxHeight: '60vh' }}
+          className="carousel slide carousel-fade rounded-4 header-carousel-fixed"
         >
-          <div className="carousel-inner">
+          <div className="carousel-inner h-100">
             {CAROUSEL_IMAGES.map((img, i) => (
               <div
                 key={img.src}
-                className={`carousel-item ${i === activeIndex ? 'active' : ''}`}
-                style={{ maxHeight: '70vh' }}
+                className={`carousel-item h-100 ${i === activeIndex ? 'active' : ''}`}
               >
                 <img
                   src={img.src}
-                  className="d-block w-100 object-fit-cover"
+                  className="d-block w-100 h-100"
                   alt={img.alt}
-                  style={{ maxHeight: '70vh', objectFit: 'cover' }}
+                  style={{ objectFit: 'cover' }}
                 />
               </div>
             ))}

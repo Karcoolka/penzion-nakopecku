@@ -97,6 +97,22 @@ body {
   border-color: var(--color-forest-700) !important;
 }
 
+/* Header carousel: fixed height so it doesn’t change on mobile when slides change */
+.header-carousel-fixed {
+  height: 50vh;
+  min-height: 260px;
+}
+.header-carousel-fixed .carousel-inner,
+.header-carousel-fixed .carousel-item {
+  height: 100%;
+}
+@media (min-width: 768px) {
+  .header-carousel-fixed {
+    height: 60vh;
+    min-height: 320px;
+  }
+}
+
 /* Header overlay always on top of carousel */
 .header-overlay {
   z-index: 5;
