@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import BookingForm, { BOOKING_EMAIL } from './BookingForm';
+import BookingForm from './BookingForm';
 
 type TableRow = { capacity?: string; price?: string; action?: string; time?: string; timing?: string; refund?: string };
 
