@@ -1,31 +1,26 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import {
+  Header,
+  HeroSection,
+  AccommodationSection,
+  PricesSection,
+  ContactSection,
+  SurroundingsSection,
+  Footer,
+} from './components';
+import './App.css';
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export default function App() {
   return (
-    <>
-      <div>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <div className="d-flex flex-column min-vh-100">
+      <Header />
+      <main className="flex-grow-1">
+        <HeroSection />
+        <AccommodationSection />
+        <PricesSection />
+        <ContactSection />
+        <SurroundingsSection />
+      </main>
+      <Footer />
+    </div>
+  );
 }
-
-export default App

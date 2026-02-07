@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "Start",
+    "accommodation": "Noclegi",
+    "prices": "Ceny",
+    "contact": "Kontakt",
+    "surroundings": "Okolica"
+  },
+  "hero": {
+    "title": "Penzion Na Kopečku - noclegi w rodzinnym pensjonacie w okolicy Teplice nad Metují i Adršpach",
+    "description": "Pensjonat położony w cichej okolicy, zaledwie 1 km od wejścia do Skał Teplickich i 3 km do Skał Adršpašskich. Piękna okolica idealna na wędrówki, kolarstwo górskie, jazdę na rowerze i biegi narciarskie.",
+    "amenities": [
+      "Trzy pokoje dwuosobowe z prysznicem i toaletą",
+      "Osobny apartament na 6 osób",
+      "Darmowe WiFi",
+      "Restauracja w pobliżu",
+      "W pełni wyposażona kuchnia",
+      "Pokój gościnny (TV satelitarna, wideo, CD, gitara)",
+      "Parking",
+      "Miejsce na ognisko i grill",
+      "Plac zabaw dla dzieci",
+      "Działalność całoroczna",
+      "Środowisko dla niepalących"
+    ],
+    "followUs": "Obserwuj nas na Facebooku",
+    "facebookLabel": "Otwórz naszą stronę na Facebooku"
+  },
+  "accommodation": {
+    "title": "Noclegi",
+    "apartment": {
+      "title": "Apartament",
+      "description": "Wygodny apartament z w pełni wyposażoną kuchnią, salonem i osobną sypialnią. Odpowiedni dla rodzin i dłuższych pobytów.",
+      "features": [
+        "Apartament na 6 osób (typ – mezonet)",
+        "W pełni wyposażona kuchnia",
+        "Salon z łóżkiem małżeńskim",
+        "Sypialnia na poddaszu z czterema łóżkami",
+        "Dwie łazienki ze prysznicem, umywalką i WC"
+      ]
+    },
+    "holidayHouse": {
+      "title": "Dom letniskowy",
+      "description": "Samodzielny dom z własnym zapleczem. Do dyspozycji przytulne pokoje z widokiem na naturę.",
+      "features": [
+        "3 pokoje dwuosobowe, każdy z własnym prysznicem i WC",
+        "Możliwość dostawki",
+        "Każdy pokój ogrzewany osobnym grzejnikiem"
+      ]
+    },
+    "room1": "Pokój 1",
+    "room2": "Pokój 2",
+    "room3": "Pokój 3",
+    "viewGallery": "Zobacz galerię"
+  },
+  "prices": {
+    "title": "Ceny",
+    "bookingFormTitle": "Formularz rezerwacji",
+    "submitTo": "Wyślij do:",
+    "holidayHouseTitle": "Dom letniskowy",
+    "apartmentTitle": "Apartament",
+    "capacity": "Pojemność",
+    "pricePerNight": "Cena/noc",
+    "action": "Akcja",
+    "time": "Godzina",
+    "timing": "Termin",
+    "refund": "Zwrot",
+    "holidayHouseRows": [
+      { "capacity": "Do 6 osób", "price": "3 600 CZK" },
+      { "capacity": "6–9 osób", "price": "4 000 CZK" }
+    ],
+    "apartmentRows": [
+      { "capacity": "1–4 osoby", "price": "2 800 CZK" },
+      { "capacity": "5–6 osób", "price": "3 600 CZK" },
+      { "capacity": "Dziecko do 2 lat (bez łóżka)", "price": "Bezpłatnie" }
+    ],
+    "importantNotesTitle": "Ważne informacje",
+    "importantNotes": [
+      "Ceny w CZK za apartament/noc",
+      "Wakacje: preferowane pobyty sobota–sobota",
+      "Opłata rekreacyjna: 20 CZK/osoba/dzień (nie wliczona)",
+      "Śniadanie nie wliczone"
+    ],
+    "checkInOutTitle": "Zameldowanie / wymeldowanie",
+    "checkInOutRows": [
+      { "action": "Zameldowanie", "time": "16:00 – 20:00" },
+      { "action": "Wymeldowanie", "time": "Do 10:00" }
+    ],
+    "cancellationTitle": "Warunki anulacji",
+    "cancellationRows": [
+      { "timing": "30+ dni przed", "refund": "100 % zwrot" },
+      { "timing": "15–30 dni przed", "refund": "50 % zwrot" },
+      { "timing": "Mniej niż 14 dni", "refund": "Bez zwrotu" }
+    ],
+    "deposit": "Zadatek: 50 % zaliczki za potwierdzoną rezerwację"
+  },
+  "equipment": {
+    "title": "Wyposażenie",
+    "description": "W pełni do dyspozycji naszych gości.",
+    "features": [
+      "W pełni wyposażona kuchnia",
+      "Mały pokój gościnny: satelita, wideo, odtwarzacz CD, gitara",
+      "Duży pokój gościnny = \"mały salon\": odtwarzacz CD, miejsce dla 15 osób",
+      "Możliwość posiedzenia przy ognisku, grill",
+      "Plac zabaw dla dzieci",
+      "Własny parking"
+    ]
+  },
+  "gallery": {
+    "title": "Galeria",
+    "apartment": "Apartament",
+    "holidayHouse": "Dom letniskowy",
+    "equipment": "Wyposażenie",
+    "others": "Inne"
+  },
+  "contact": {
+    "title": "Kontakt i rezerwacja",
+    "description": "Masz pytania lub chcesz zarezerwować? Napisz do nas.",
+    "bookingFormInPrices": "Formularz rezerwacji znajdziesz w sekcji Ceny powyżej.",
+    "mapTitle": "Mapa - lokalizacja Pensjonat Na Kopečku",
+    "addressName": "Penzionek \"Na Kopečku\"",
+    "addressStreet": "Bucnice 219",
+    "addressCity": "Teplice nad Metují, 549 57",
+    "addressCountry": "Czechy",
+    "gps": "GPS: 50°36'27.456\"N, 16°8'53.045\"E",
+    "entrepreneur": "Przedsiębiorca: Jiří Černák",
+    "ico": "IČO: 110 568 51",
+    "tradeLicence": "Koncesja: 360508-37-02",
+    "phoneValue": "+420 723 877 046",
+    "emailValue": "ubytovani.nakopecku@centrum.cz",
+    "activitiesTitle": "Inne aktywności",
+    "activity1Title": "Akcesoria odblaskowe dla rowerzystów/biegaczy",
+    "activity1Url": "http://www.reflexis.cz/",
+    "activity2Title": "Kajakarstwo morskie - wypożyczalnia i szkoła",
+    "activity2Url": "http://www.seakayaking.cz/",
+    "name": "Imię i nazwisko",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "arrival": "Data przyjazdu",
+    "departure": "Data wyjazdu",
+    "guests": "Liczba gości",
+    "notes": "Uwagi",
+    "gdpr": "Wyrażam zgodę na przetwarzanie danych osobowych zgodnie z RODO.",
+    "send": "Wyślij",
+    "sending": "Wysyłanie…",
+    "success": "Wiadomość wysłana. Wkrótce się odezwiemy.",
+    "error": "Wysyłanie nie powiodło się. Spróbuj ponownie później."
+  },
+  "surroundings": {
+    "title": "Okolica",
+    "description": "Rejon skał Teplice-Adršpach oferuje liczne wycieczki, trasy wspinaczkowe i rowerowe. Skały Adršpach i Teplice, Borek, wieże widokowe i kąpieliska naturalne są w pobliżu.",
+    "link1Title": "Region Tourist",
+    "link1Description": "Porady na wycieczki i atrakcje",
+    "link2Title": "MHFF Festival",
+    "link2Description": "Międzynarodowy Festiwal Filmów Górskich"
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "location": "Bučnice, Czechy",
+    "partnerTitle": "Strony partnerskie",
+    "partners": [
+      { "name": "adrspach.cz", "url": "https://www.adrspach.cz" },
+      { "name": "teplicenadmetuji.cz", "url": "https://www.teplicenadmetuji.cz" },
+      { "name": "kladskepomezi.cz", "url": "https://www.kladskepomezi.cz" },
+      { "name": "nasehory.cz", "url": "https://www.nasehory.cz" },
+      { "name": "penziony.cz", "url": "https://www.penziony.cz" }
+    ],
+    "createdBy": "Stworzone przez Adelę Simkovą"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "Home",
+    "accommodation": "Accommodation",
+    "prices": "Prices",
+    "contact": "Contact",
+    "surroundings": "Surroundings"
+  },
+  "hero": {
+    "title": "Penzion Na Kopečku - accommodation at a family guest house near Teplice nad Metují and Adršpach",
+    "description": "Guest house is situated in a quiet location only 1 km from the entrance to Teplice rocks and 3 km to Adršpach rocks. The beautiful surrounding countryside is ideal for hiking, mountain biking, cycling or cross country skiing.",
+    "amenities": [
+      "Three double rooms with shower and toilet",
+      "Separate 6-bed apartment option",
+      "Free WiFi",
+      "Nearby restaurant dining",
+      "Fully furnished kitchen",
+      "Guest room (satellite TV, video, CD, guitar)",
+      "Parking",
+      "Fire pit & grilling area",
+      "Children's playground",
+      "Year-round availability",
+      "Non-smoking environment"
+    ],
+    "followUs": "Follow us on Facebook",
+    "facebookLabel": "Open our Facebook page"
+  },
+  "accommodation": {
+    "title": "Accommodation",
+    "apartment": {
+      "title": "Apartment",
+      "description": "Comfortable apartment with fully equipped kitchen, living area and separate bedroom. Suitable for families and longer stays.",
+      "features": [
+        "Six-bed apartment (type - mezonets)",
+        "Fully equipped kitchen",
+        "Living room with double bed",
+        "Attic bedroom with four beds",
+        "Two bathrooms with shower, washbasin and WC"
+      ]
+    },
+    "holidayHouse": {
+      "title": "Holiday house",
+      "description": "Standalone house with its own facilities. Cosy rooms with nature views available.",
+      "features": [
+        "3 double rooms, each with its own shower and WC",
+        "Possibility of an additional bed",
+        "Each room is heated by an independent heating element"
+      ]
+    },
+    "room1": "Room 1",
+    "room2": "Room 2",
+    "room3": "Room 3",
+    "viewGallery": "View gallery"
+  },
+  "prices": {
+    "title": "Prices",
+    "bookingFormTitle": "Booking Form",
+    "submitTo": "Submit to:",
+    "holidayHouseTitle": "Holiday House",
+    "apartmentTitle": "Apartment",
+    "capacity": "Capacity",
+    "pricePerNight": "Price/Night",
+    "action": "Action",
+    "time": "Time",
+    "timing": "Timing",
+    "refund": "Refund",
+    "holidayHouseRows": [
+      { "capacity": "Up to 6 people", "price": "3,600 CZK" },
+      { "capacity": "6-9 people", "price": "4,000 CZK" }
+    ],
+    "apartmentRows": [
+      { "capacity": "1-4 persons", "price": "2,800 CZK" },
+      { "capacity": "5-6 persons", "price": "3,600 CZK" },
+      { "capacity": "Child under 2 (no bed)", "price": "Free" }
+    ],
+    "importantNotesTitle": "Important Notes",
+    "importantNotes": [
+      "Prices in CZK per apartment/night",
+      "Summer holidays: prefer Saturday-to-Saturday stays",
+      "Recreation fee: 20 CZK/person/day (not included)",
+      "Breakfast not included"
+    ],
+    "checkInOutTitle": "Check-in/Check-out",
+    "checkInOutRows": [
+      { "action": "Check-in", "time": "16:00 - 20:00" },
+      { "action": "Check-out", "time": "Before 10:00" }
+    ],
+    "cancellationTitle": "Cancellation Policy",
+    "cancellationRows": [
+      { "timing": "30+ days before", "refund": "100% refund" },
+      { "timing": "15-30 days before", "refund": "50% refund" },
+      { "timing": "Less than 14 days", "refund": "No refund" }
+    ],
+    "deposit": "Deposit: 50% advance required for fixed reservation"
+  },
+  "equipment": {
+    "title": "Equipment",
+    "description": "At full disposal to our guests.",
+    "features": [
+      "Completely furnished kitchen",
+      "Small guestroom: satellite, video, CD recorder, guitar",
+      "Big guestroom = \"small saloon\": CD recorder, place for 15 people",
+      "Possibility of sitting by fire, grilling",
+      "Children's playground",
+      "Own parking place"
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "apartment": "Apartment",
+    "holidayHouse": "Holiday house",
+    "equipment": "Equipment",
+    "others": "Others"
+  },
+  "contact": {
+    "title": "Contact & booking",
+    "description": "Have questions or want to book? Get in touch.",
+    "bookingFormInPrices": "Use the booking form in the Prices section above.",
+    "mapTitle": "Map - Penzionek Na Kopečku location",
+    "addressName": "Penzionek \"Na Kopečku\"",
+    "addressStreet": "Bucnice 219",
+    "addressCity": "Teplice nad Metují, 549 57",
+    "addressCountry": "Czech Republic",
+    "gps": "GPS: 50°36'27.456\"N, 16°8'53.045\"E",
+    "entrepreneur": "Entrepreneur: Jiří Černák",
+    "ico": "IČO: 110 568 51",
+    "tradeLicence": "Trade licence: 360508-37-02",
+    "phoneValue": "+420 723 877 046",
+    "emailValue": "ubytovani.nakopecku@centrum.cz",
+    "activitiesTitle": "Other Activities",
+    "activity1Title": "Reflexive accessories for bikers/joggers",
+    "activity1Url": "http://www.reflexis.cz/",
+    "activity2Title": "Sea kayaking - hire and school",
+    "activity2Url": "http://www.seakayaking.cz/",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "arrival": "Arrival date",
+    "departure": "Departure date",
+    "guests": "Number of guests",
+    "notes": "Notes",
+    "gdpr": "I agree to the processing of my personal data in accordance with GDPR.",
+    "send": "Send",
+    "sending": "Sending…",
+    "success": "Message sent. We will get back to you soon.",
+    "error": "Sending failed. Please try again later."
+  },
+  "surroundings": {
+    "title": "Surroundings",
+    "description": "The Teplice-Adršpach rock area offers countless hikes, climbing routes and cycle paths. Adršpach and Teplice rocks, Borek, lookout towers and natural swimming spots are nearby.",
+    "link1Title": "Region Tourist",
+    "link1Description": "Trip tips & attractions",
+    "link2Title": "MHFF Festival",
+    "link2Description": "International Mountaineering Film Festival"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "location": "Bučnice, Czech Republic",
+    "partnerTitle": "Partner Websites",
+    "partners": [
+      { "name": "adrspach.cz", "url": "https://www.adrspach.cz" },
+      { "name": "teplicenadmetuji.cz", "url": "https://www.teplicenadmetuji.cz" },
+      { "name": "kladskepomezi.cz", "url": "https://www.kladskepomezi.cz" },
+      { "name": "nasehory.cz", "url": "https://www.nasehory.cz" },
+      { "name": "penziony.cz", "url": "https://www.penziony.cz" }
+    ],
+    "createdBy": "Created by Adela Simkova"
+  }
+}

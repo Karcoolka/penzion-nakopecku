@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "Start",
+    "accommodation": "Unterkunft",
+    "prices": "Preise",
+    "contact": "Kontakt",
+    "surroundings": "Umgebung"
+  },
+  "hero": {
+    "title": "Penzion Na Kopečku - Unterkunft im Familienpension in der Umgebung von Teplice nad Metují und Adršpach",
+    "description": "Das Gästehaus liegt ruhig nur 1 km vom Eingang zu den Teplitzer Felsen und 3 km zu den Adersbacher Felsen. Die schöne Umgebung ist ideal zum Wandern, Mountainbiken, Radfahren oder Skilanglauf.",
+    "amenities": [
+      "Drei Doppelzimmer mit Dusche und WC",
+      "Separate 6-Bett-Wohnung",
+      "Kostenloses WLAN",
+      "Restaurant in der Nähe",
+      "Voll ausgestattete Küche",
+      "Gästezimmer (Sat-TV, Video, CD, Gitarre)",
+      "Parkplatz",
+      "Feuerstelle & Grillplatz",
+      "Kinderspielplatz",
+      "Ganzjährig geöffnet",
+      "Raucherfreie Umgebung"
+    ],
+    "followUs": "Folgen Sie uns auf Facebook",
+    "facebookLabel": "Unsere Facebook-Seite öffnen"
+  },
+  "accommodation": {
+    "title": "Unterkunft",
+    "apartment": {
+      "title": "Apartment",
+      "description": "Komfortables Apartment mit voll ausgestatteter Küche, Wohnbereich und separatem Schlafzimmer. Geeignet für Familien und längere Aufenthalte.",
+      "features": [
+        "Sechs-Bett-Apartment (Typ – Maisonette)",
+        "Voll ausgestattete Küche",
+        "Wohnzimmer mit Doppelbett",
+        "Dachgeschoss-Schlafzimmer mit vier Betten",
+        "Zwei Badezimmer mit Dusche, Waschbecken und WC"
+      ]
+    },
+    "holidayHouse": {
+      "title": "Ferienhaus",
+      "description": "Eigenständiges Haus mit eigenem Komfort. Gemütliche Zimmer mit Naturblick verfügbar.",
+      "features": [
+        "3 Doppelzimmer, jeweils mit eigener Dusche und WC",
+        "Möglichkeit eines Zusatzbettes",
+        "Jedes Zimmer mit eigenem Heizkörper beheizt"
+      ]
+    },
+    "room1": "Zimmer 1",
+    "room2": "Zimmer 2",
+    "room3": "Zimmer 3",
+    "viewGallery": "Galerie ansehen"
+  },
+  "prices": {
+    "title": "Preise",
+    "bookingFormTitle": "Buchungsformular",
+    "submitTo": "Senden an:",
+    "holidayHouseTitle": "Ferienhaus",
+    "apartmentTitle": "Apartment",
+    "capacity": "Kapazität",
+    "pricePerNight": "Preis/Nacht",
+    "action": "Aktion",
+    "time": "Zeit",
+    "timing": "Zeitraum",
+    "refund": "Rückerstattung",
+    "holidayHouseRows": [
+      { "capacity": "Bis 6 Personen", "price": "3.600 CZK" },
+      { "capacity": "6–9 Personen", "price": "4.000 CZK" }
+    ],
+    "apartmentRows": [
+      { "capacity": "1–4 Personen", "price": "2.800 CZK" },
+      { "capacity": "5–6 Personen", "price": "3.600 CZK" },
+      { "capacity": "Kind unter 2 (ohne Bett)", "price": "Kostenlos" }
+    ],
+    "importantNotesTitle": "Wichtige Hinweise",
+    "importantNotes": [
+      "Preise in CZK pro Apartment/Nacht",
+      "Sommerferien: Samstag–Samstag-Aufenthalte bevorzugt",
+      "Erholungsgebühr: 20 CZK/Person/Tag (nicht inklusive)",
+      "Frühstück nicht inklusive"
+    ],
+    "checkInOutTitle": "Check-in/Check-out",
+    "checkInOutRows": [
+      { "action": "Check-in", "time": "16:00 – 20:00" },
+      { "action": "Check-out", "time": "Vor 10:00" }
+    ],
+    "cancellationTitle": "Stornobedingungen",
+    "cancellationRows": [
+      { "timing": "30+ Tage vorher", "refund": "100 % Rückerstattung" },
+      { "timing": "15–30 Tage vorher", "refund": "50 % Rückerstattung" },
+      { "timing": "Weniger als 14 Tage", "refund": "Keine Rückerstattung" }
+    ],
+    "deposit": "Anzahlung: 50 % Vorauszahlung für verbindliche Reservierung"
+  },
+  "equipment": {
+    "title": "Ausrüstung",
+    "description": "Vollständig unseren Gästen zur Verfügung.",
+    "features": [
+      "Voll eingerichtete Küche",
+      "Kleiner Gästebereich: Satellit, Video, CD-Player, Gitarre",
+      "Großer Gästebereich = \"kleiner Salon\": CD-Player, Platz für 15 Personen",
+      "Möglichkeit am Feuer zu sitzen, Grillen",
+      "Kinderspielplatz",
+      "Eigener Parkplatz"
+    ]
+  },
+  "gallery": {
+    "title": "Galerie",
+    "apartment": "Apartment",
+    "holidayHouse": "Ferienhaus",
+    "equipment": "Ausrüstung",
+    "others": "Sonstiges"
+  },
+  "contact": {
+    "title": "Kontakt & Buchung",
+    "description": "Fragen oder buchen? Schreiben Sie uns.",
+    "bookingFormInPrices": "Das Buchungsformular finden Sie in der Preissektion oben.",
+    "mapTitle": "Karte - Lage Penzionek Na Kopečku",
+    "addressName": "Penzionek \"Na Kopečku\"",
+    "addressStreet": "Bucnice 219",
+    "addressCity": "Teplice nad Metují, 549 57",
+    "addressCountry": "Tschechien",
+    "gps": "GPS: 50°36'27.456\"N, 16°8'53.045\"E",
+    "entrepreneur": "Unternehmer: Jiří Černák",
+    "ico": "IČO: 110 568 51",
+    "tradeLicence": "Gewerbeerlaubnis: 360508-37-02",
+    "phoneValue": "+420 723 877 046",
+    "emailValue": "ubytovani.nakopecku@centrum.cz",
+    "activitiesTitle": "Weitere Aktivitäten",
+    "activity1Title": "Reflexzubehör für Radfahrer/Läufer",
+    "activity1Url": "http://www.reflexis.cz/",
+    "activity2Title": "Seekajak - Verleih und Schule",
+    "activity2Url": "http://www.seakayaking.cz/",
+    "name": "Name",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "arrival": "Anreisedatum",
+    "departure": "Abreisedatum",
+    "guests": "Anzahl der Gäste",
+    "notes": "Anmerkungen",
+    "gdpr": "Ich stimme der Verarbeitung meiner personenbezogenen Daten gemäß DSGVO zu.",
+    "send": "Senden",
+    "sending": "Wird gesendet…",
+    "success": "Nachricht gesendet. Wir melden uns in Kürze.",
+    "error": "Senden fehlgeschlagen. Bitte versuchen Sie es später erneut."
+  },
+  "surroundings": {
+    "title": "Umgebung",
+    "description": "Das Teplitz-Adersbacher Felsgebiet bietet unzählige Wanderungen, Kletterrouten und Radwege. Adersbacher und Teplitzer Felsen, Borek, Aussichtstürme und Naturbäder sind in der Nähe.",
+    "link1Title": "Region Tourist",
+    "link1Description": "Ausflugstipps & Sehenswürdigkeiten",
+    "link2Title": "MHFF Festival",
+    "link2Description": "Internationales Bergfilm-Festival"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "location": "Bučnice, Tschechien",
+    "partnerTitle": "Partner-Webseiten",
+    "partners": [
+      { "name": "adrspach.cz", "url": "https://www.adrspach.cz" },
+      { "name": "teplicenadmetuji.cz", "url": "https://www.teplicenadmetuji.cz" },
+      { "name": "kladskepomezi.cz", "url": "https://www.kladskepomezi.cz" },
+      { "name": "nasehory.cz", "url": "https://www.nasehory.cz" },
+      { "name": "penziony.cz", "url": "https://www.penziony.cz" }
+    ],
+    "createdBy": "Erstellt von Adela Simkova"
+  }
+}

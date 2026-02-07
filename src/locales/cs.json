@@ -1,0 +1,169 @@
+{
+  "nav": {
+    "home": "Domů",
+    "accommodation": "Ubytování",
+    "prices": "Ceník",
+    "contact": "Kontakt",
+    "surroundings": "Okolí"
+  },
+  "hero": {
+    "title": "Penzion Na Kopečku - ubytování v rodinném penzionu v okolí obcí Teplice nad Metují a Adršpach",
+    "description": "Penzion se nachází v klidné lokalitě jen 1 km od vstupu do Teplických skal a 3 km od Adršpašských skal. Krásná okolní krajina je ideální pro pěší túry, horskou cyklistiku, cyklistiku nebo běžkování.",
+    "amenities": [
+      "Tři dvoulůžkové pokoje se sprchou a toaletou",
+      "Samostatný 6lůžkový apartmán",
+      "Zdarma WiFi",
+      "Stravování v nedaleké restauraci",
+      "Plně vybavená kuchyně",
+      "Společenská místnost (satelitní TV, video, CD, kytara)",
+      "Parkování",
+      "Ohniště a gril",
+      "Dětské hřiště",
+      "Provoz celoročně",
+      "Nekuřácké prostředí"
+    ],
+    "followUs": "Sledujte nás na Facebooku",
+    "facebookLabel": "Otevřít naši stránku na Facebooku"
+  },
+  "accommodation": {
+    "title": "Ubytování",
+    "apartment": {
+      "title": "Apartmán",
+      "description": "Pohodlný apartmán s plně vybavenou kuchyní, obývacím prostorem a oddělenou ložnicí. Vhodný pro rodiny a delší pobyty.",
+      "features": [
+        "Šestilůžkový apartmán (typ – mezonet)",
+        "Plně vybavená kuchyně",
+        "Obývací pokoj s dvojlůžkem",
+        "Půdní ložnice se čtyřmi lůžky",
+        "Dvě koupelny se sprchou, umyvadlem a WC"
+      ]
+    },
+    "holidayHouse": {
+      "title": "Chata",
+      "description": "Samostatná chata s vlastním zázemím. K dispozici jsou útulné pokoje s přírodním výhledem.",
+      "features": [
+        "3 dvoulůžkové pokoje, každý s vlastní sprchou a WC",
+        "Možnost přistýlky",
+        "Každý pokoj vytápěn samostatným topným tělesem"
+      ]
+    },
+    "room1": "Pokoj 1",
+    "room2": "Pokoj 2",
+    "room3": "Pokoj 3",
+    "viewGallery": "Zobrazit galerii"
+  },
+  "prices": {
+    "title": "Ceník",
+    "bookingFormTitle": "Rezervační formulář",
+    "submitTo": "Odeslat na:",
+    "holidayHouseTitle": "Chata",
+    "apartmentTitle": "Apartmán",
+    "capacity": "Kapacita",
+    "pricePerNight": "Cena/noc",
+    "action": "Akce",
+    "time": "Čas",
+    "timing": "Termín",
+    "refund": "Vrácení",
+    "holidayHouseRows": [
+      { "capacity": "Do 6 osob", "price": "3 600 Kč" },
+      { "capacity": "6–9 osob", "price": "4 000 Kč" }
+    ],
+    "apartmentRows": [
+      { "capacity": "1–4 osoby", "price": "2 800 Kč" },
+      { "capacity": "5–6 osob", "price": "3 600 Kč" },
+      { "capacity": "Dítě do 2 let (bez lůžka)", "price": "Zdarma" }
+    ],
+    "importantNotesTitle": "Důležité upozornění",
+    "importantNotes": [
+      "Ceny v Kč za apartmán/noc",
+      "Prázdniny: preferujeme pobyty sobota–sobota",
+      "Rekreační poplatek: 20 Kč/osoba/den (není v ceně)",
+      "Snídaně nejsou v ceně"
+    ],
+    "checkInOutTitle": "Příjezd / odjezd",
+    "checkInOutRows": [
+      { "action": "Příjezd", "time": "16:00 – 20:00" },
+      { "action": "Odjezd", "time": "Do 10:00" }
+    ],
+    "cancellationTitle": "Storno podmínky",
+    "cancellationRows": [
+      { "timing": "30+ dní předem", "refund": "100 % vráceno" },
+      { "timing": "15–30 dní předem", "refund": "50 % vráceno" },
+      { "timing": "Méně než 14 dní", "refund": "Bez náhrady" }
+    ],
+    "deposit": "Záloha: 50 % záloha pro pevnou rezervaci"
+  },
+  "equipment": {
+    "title": "Vybavení",
+    "description": "Plně k dispozici našim hostům.",
+    "features": [
+      "Plně vybavená kuchyně",
+      "Malá společenská místnost: satelit, video, CD přehrávač, kytara",
+      "Velká společenská místnost = \"malý salónek\": CD přehrávač, místo pro 15 osob",
+      "Možnost posezení u ohně, grilování",
+      "Dětské hřiště",
+      "Vlastní parkovací místo"
+    ]
+  },
+  "gallery": {
+    "title": "Galerie",
+    "apartment": "Apartmán",
+    "holidayHouse": "Chata",
+    "equipment": "Vybavení",
+    "others": "Ostatní"
+  },
+  "contact": {
+    "title": "Kontakt a rezervace",
+    "description": "Máte dotazy nebo chcete rezervovat? Napište nám.",
+    "bookingFormInPrices": "Rezervační formulář najdete v sekci Ceny výše.",
+    "mapTitle": "Mapa - poloha Penzionek Na Kopečku",
+    "addressName": "Penzionek \"Na Kopečku\"",
+    "addressStreet": "Bucnice 219",
+    "addressCity": "Teplice nad Metují, 549 57",
+    "addressCountry": "Česká republika",
+    "gps": "GPS: 50°36'27.456\"N, 16°8'53.045\"E",
+    "entrepreneur": "Podnikatel: Jiří Černák",
+    "ico": "IČO: 110 568 51",
+    "tradeLicence": "Živnostenské oprávnění: 360508-37-02",
+    "phoneValue": "+420 723 877 046",
+    "emailValue": "ubytovani.nakopecku@centrum.cz",
+    "activitiesTitle": "Další aktivity",
+    "activity1Title": "Reflexní doplňky pro cyklisty a běžce",
+    "activity1Url": "http://www.reflexis.cz/",
+    "activity2Title": "Mořský kajak - pronájem a škola",
+    "activity2Url": "http://www.seakayaking.cz/",
+    "name": "Jméno",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "arrival": "Datum příjezdu",
+    "departure": "Datum odjezdu",
+    "guests": "Počet osob",
+    "notes": "Poznámka",
+    "gdpr": "Souhlasím se zpracováním osobních údajů v souladu s GDPR.",
+    "send": "Odeslat",
+    "sending": "Odesílám…",
+    "success": "Zpráva byla odeslána. Brzy vás budeme kontaktovat.",
+    "error": "Odeslání se nezdařilo. Zkuste to prosím později."
+  },
+  "surroundings": {
+    "title": "Okolí",
+    "description": "Adršpašsko-teplické skály nabízejí nespočet výletů, horolezeckých cest a cyklotras. Adršpašské a Teplické skály, zámky, rozhledny a přírodní koupaliště jsou nedaleko.",
+    "link1Title": "Region Tourist",
+    "link1Description": "Tipy na výlety a zajímavosti",
+    "link2Title": "MHFF Festival",
+    "link2Description": "Mezinárodní horolezecký filmový festival"
+  },
+  "footer": {
+    "rights": "Všechna práva vyhrazena.",
+    "location": "Bučnice, Česko",
+    "partnerTitle": "Partnerské weby",
+    "partners": [
+      { "name": "adrspach.cz", "url": "https://www.adrspach.cz" },
+      { "name": "teplicenadmetuji.cz", "url": "https://www.teplicenadmetuji.cz" },
+      { "name": "kladskepomezi.cz", "url": "https://www.kladskepomezi.cz" },
+      { "name": "nasehory.cz", "url": "https://www.nasehory.cz" },
+      { "name": "penziony.cz", "url": "https://www.penziony.cz" }
+    ],
+    "createdBy": "Vytvořila Adéla Šimková"
+  }
+}
